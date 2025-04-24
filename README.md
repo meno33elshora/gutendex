@@ -1,4 +1,3 @@
-![Screenshot_20250425_000638](https://github.com/user-attachments/assets/51880128-b1ea-4155-9ca2-36b189c176e1)
 ## Documentation
 
 
