@@ -1,4 +1,4 @@
-
+![Screenshot_20250425_000638](https://github.com/user-attachments/assets/51880128-b1ea-4155-9ca2-36b189c176e1)
 ## Documentation
 
 
@@ -46,7 +46,11 @@ I have completed the technical task as requested. It is a small application for 
 ## Screenshots
 
 
-![Uploading Screenshot_20250425_000638.png…]()
+<div>  
+<img src="https://github.com/user-attachments/assets/9b97be83-3f52-4db7-9952-25f54850e180" width = 200 , hight = 200> 
+<img src="https://github.com/user-attachments/assets/eb2f6f86-5191-4c34-a267-e19edf66fd9e" width = 200 , hight = 200> 
+<img src="https://github.com/user-attachments/assets/0b506325-3af9-46e3-92fb-8a7f60b69f92" width = 200 , hight = 200>   
+</div>
 
 ## Related
 
