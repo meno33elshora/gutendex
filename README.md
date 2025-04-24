@@ -45,9 +45,9 @@ I have completed the technical task as requested. It is a small application for 
 
 ## Screenshots
 
-![](../Screenshot_20250425_000638.png)
-![](../Screenshot_20250425_000700.png)
-![](../Screenshot_20250425_000719.png)
+
+![Uploading Screenshot_20250425_000638.png…]()
+
 ## Related
 
 ##### Clean Code Architecture as Design Principle
