@@ -17,6 +17,16 @@ I have completed the technical task as requested. It is a small application for 
 
 **Server:** https://gutendex.com/
 
+**Package:** 
+  - Flutter Bloc (Cubit)
+  -  Internet Checker
+  -  Shared Preferences
+  -  Dartz
+  -  Get It
+  -  dio
+  -  Equatable
+  -  Readmore
+
 
 ## API Reference
 
