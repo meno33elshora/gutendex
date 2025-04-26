@@ -61,6 +61,14 @@ I have completed the technical task as requested. It is a small application for 
 <img src="https://github.com/user-attachments/assets/0b506325-3af9-46e3-92fb-8a7f60b69f92" width = 200 , hight = 200>   
 </div>
 
+
+## Structural Design
+
+<div> 
+<img src="https://github.com/user-attachments/assets/1860f532-2910-404f-88bc-dfe35c4f5cf0" width = 200 , hight = 200> 
+</div>
+
+
 ## Related
 
 ##### Clean Code Architecture as Design Principle
