@@ -2,6 +2,7 @@
 
 
 I have completed the technical task as requested. It is a small application for displaying a list of books, including their features, such as the book title, the book's location, the book cover, and the book summary.
+It also contains the most important feature, which is that in the event of an Internet outage, it contains the latest available data.
 
 
 # Features
